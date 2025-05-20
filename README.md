@@ -50,10 +50,10 @@ os dispositivos domésticos de qualquer lugar, proporcionando mais praticidade e
 -  C/C++
 -  JavaScript
 
-# Protótipo
+## Protótipo
 [Visualize o protótipo no Figma](https://www.figma.com/design/7XpSJugIxqXGQLM1BrkrJz/Smart-House-APP?node-id=0-1&t=CsVgQiNryM9V6tbI-1)
 
-# Layout App
+## Layout App
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bb066c50-0ce5-4d41-ba47-c08c3ec13e5a" alt="Tela inicial" width="200"/>
   <img src="https://github.com/user-attachments/assets/64041b44-68dc-413b-9289-37aaeb5b6a51" alt="Tela login" width="200"/>
