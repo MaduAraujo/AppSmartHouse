@@ -6,6 +6,8 @@
 - [Funcionalidades Principais](#funcionalidades-principais)
 - [Materiais Utilizados](#materiais-utilizados)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Linguagens de Programação Utilizadas](#linguagens-de-programação-utilizadas)
+- [Maquete](#maquete)
 - [Protótipo](#protótipo)
 - [Layout App](#layout-app)
 - [Equipe](#equipe)
@@ -49,6 +51,14 @@ os dispositivos domésticos de qualquer lugar, proporcionando mais praticidade e
 
 -  C/C++
 -  JavaScript
+
+## Maquete
+
+A casa de boneca será automatizada para demonstrar as funcionalidades do sistema SmartHouse. Ela incluirá os seguintes elementos:
+
+- **Controle de Iluminação:** Luzes em diferentes cômodos (sala, cozinha, quarto, banheiro e área externa) controladas pelo aplicativo.
+- **Monitoramento de Temperatura:** Um sensor de temperatura LM35 para simular o ambiente interno.
+- **Sistema de Segurança:** Simulação de sensor de fumaça e alarme com buzzer e diodo laser.
 
 ## Protótipo
 [Visualize o protótipo no Figma](https://www.figma.com/design/7XpSJugIxqXGQLM1BrkrJz/Smart-House-APP?node-id=0-1&t=CsVgQiNryM9V6tbI-1)
