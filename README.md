@@ -59,11 +59,11 @@ Para instalar o App SmartHouse, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   $ git clone https://github.com/seu-usuario/appsmarthouse.git
+   $ git clone https://github.com/MaduAraujo/AppSmartHouse.git
 
 3. **Navegue até o diretório do projeto:**
    ```bash
-   cd smarthouse-app
+   cd AppSmartHouse
 
 5. **Instale as dependências:**
    ```bash
