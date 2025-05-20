@@ -45,6 +45,11 @@ os dispositivos domésticos de qualquer lugar, proporcionando mais praticidade e
 - **Expo Snack**: Para prototipagem rápida.
 - **Expo Go**: Para realizar os testes em dispositivos móveis.
 
+## Linguagens de Programação Utilizadas
+
+-  C/C++
+-  JavaScript
+
 # Protótipo
 [Visualize o protótipo no Figma](https://www.figma.com/design/7XpSJugIxqXGQLM1BrkrJz/Smart-House-APP?node-id=0-1&t=CsVgQiNryM9V6tbI-1)
 
@@ -79,12 +84,12 @@ Para instalar o App SmartHouse, siga os passos abaixo:
 
 - **Maria Eduarda**  
   Curso: Ciência da Computação  
-  [GitHub](link-do-github)
+  [GitHub](https://github.com/MaduAraujo)
 
 - **Ian Lucca**  
   Curso: Ciência da Computação  
-  [GitHub](link-do-github)
+  [GitHub](https://github.com/IanlLucca)
 
 - **Felipe Carlos**  
   Curso: Gestão da Tecnologia da Informação  
-  [GitHub](link-do-github)
+  [GitHub](https://github.com/Felipelipera)
