@@ -30,7 +30,7 @@ os dispositivos domésticos de qualquer lugar, proporcionando mais praticidade e
 
 - **Gerenciamento de Iluminação:** Controla as luzes de diferentes ambientes da casa (sala, cozinha, quarto, banheiro e área externa) com um simples interruptor.
   
-## Materiais utilizados
+## Materiais Utilizados
 
 - Placa ESP32
 - Leds
@@ -40,7 +40,7 @@ os dispositivos domésticos de qualquer lugar, proporcionando mais praticidade e
 - Buzzer
 - Fios e conectores
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
 - **React-Native**: Para o desenvolvimento do aplicativo.
 - **IDE Arduino**: Para a programação da placa ESP32.
