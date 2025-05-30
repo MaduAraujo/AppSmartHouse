@@ -25,9 +25,6 @@ os dispositivos domésticos de qualquer lugar, proporcionando mais praticidade e
 ### Funcionalidades Principais
 
 - **Controle de Temperatura:** Monitora a temperatura interna da casa em tempo real e permite configurações automáticas.
-
-- **Controle de Segurança:** Integra sensores de fumaça e alarme, permitindo que o usuário ative ou desative esses dispositivos com um simples toque. Recebe notificações em tempo real sobre qualquer atividade suspeita.
-
 - **Gerenciamento de Iluminação:** Controla as luzes de diferentes ambientes da casa (sala, cozinha, quarto, banheiro e área externa) com um simples interruptor.
   
 ## Materiais Utilizados
@@ -35,9 +32,6 @@ os dispositivos domésticos de qualquer lugar, proporcionando mais praticidade e
 - Placa ESP32
 - Leds
 - Sensor de Temperatura LM35
-- Sensor LDR
-- Diodo laser
-- Buzzer
 - Fios e conectores
 
 ## Tecnologias Utilizadas
@@ -58,7 +52,11 @@ A casa de boneca será automatizada para demonstrar as funcionalidades do sistem
 
 - **Controle de Iluminação:** Luzes em diferentes cômodos (sala, cozinha, quarto, banheiro e área externa) controladas pelo aplicativo.
 - **Monitoramento de Temperatura:** Um sensor de temperatura LM35 para simular o ambiente interno.
-- **Sistema de Segurança:** Simulação de sensor de fumaça e alarme com buzzer e diodo laser.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e483364-0dcd-46a7-9b57-3da6c1ff45d5" width="40%" alt="Descrição da Imagem 01">
+  <img src="https://github.com/user-attachments/assets/9a1ed77c-1cf2-40b2-aea8-f46ab740e115" width="40%" alt="Descrição da Imagem 02">
+</p>
 
 ## Protótipo
 [Visualize o protótipo no Figma](https://www.figma.com/design/7XpSJugIxqXGQLM1BrkrJz/Smart-House-APP?node-id=0-1&t=CsVgQiNryM9V6tbI-1)
